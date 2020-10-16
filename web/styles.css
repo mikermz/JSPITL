@@ -1,0 +1,13 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+.showSubjects{
+        overflow-x: auto;
+}
+#time{
+    float: right;
+}
+.container{
+    height: auto;
+}
