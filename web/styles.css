@@ -1,7 +1,9 @@
 table, th, td{
     border: 1px solid black;
 }
-
+thead{
+    background-color: #0099ff;
+}
 .showSubjects{
         overflow-x: auto;
 }

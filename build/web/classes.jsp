@@ -32,15 +32,13 @@
             <a href="profile.jsp">Profile</a>|
             <a href="classes.jsp">Classes</a>
             <hr>
-            <a href="newClass.jsp">New Class</a>|
-            <a href="classes.jsp">Edit Class</a>|
-            <a href="classes.jsp">Delete Class</a>
+            <a href="newClass.jsp">New Class</a>
             <hr>
             <br>
             <table>
-                <thead>
-                    <tr>
-                        <td>ClaveHorario</td><td>ClaveMateria</td><td>claveCarrera</td><td>Materia</td><td>Carrera</td><td>Maestro</td><td>Periodo</td><td>Grupo</td><td>NoAlumnos</td><td>Semestre</td><td>Creditos</td><td>Lunes</td><td>Salon</td><td>Martes	</td><td>Salon	</td><td>Miercoles</td><td>Salon</td><td>Jueves	</td><td>Salon</td><td>Viernes<td>Salon</td>
+                <thead >
+                    <tr >
+                        <td >ClaveHorario</td><td>ClaveMateria</td><td>claveCarrera</td><td>Materia</td><td>Carrera</td><td>Maestro</td><td>Periodo</td><td>Grupo</td><td>NoAlumnos</td><td>Semestre</td><td>Creditos</td><td>Lunes</td><td>Salon</td><td>Martes	</td><td>Salon	</td><td>Miercoles</td><td>Salon</td><td>Jueves	</td><td>Salon</td><td>Viernes<td>Salon</td>
                     </tr>
                 </thead>
                 <tbody>
